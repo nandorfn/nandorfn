@@ -1,4 +1,6 @@
 Hi there, I'm Firnando 👋
+
+
 I'm a passionate web developer who loves to write code in JavaScript. I enjoy working with modern web technologies such as ReactJS and NextJS. I'm also a big fan of TailwindCSS and Bootstrap for creating beautiful and responsive user interfaces.
 
 🧰 Technologies and Tools
