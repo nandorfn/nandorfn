@@ -11,6 +11,7 @@ Front-end: ReactJS, NextJS, TailwindCSS, Bootstrap
 Back-end: Node.js, Express.js
 Database: MongoDB, MySQL
 Tools: Git, VS Code, Postman, Figma
+
 💻 Projects
 I'm always working on something new, and you can find some of my recent projects on my GitHub profile. Here are a few of my favorites:
 
