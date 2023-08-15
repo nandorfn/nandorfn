@@ -6,10 +6,10 @@ I'm a passionate web developer who loves to write code in JavaScript. I enjoy wo
 ## 🧰 Technologies and Tools
 Here are some of the technologies and tools that I use:
 
-1. Languages: JavaScript, HTML, CSS  
+1. Languages: Typescript, JavaScript, HTML, CSS  
 2. Front-end: ReactJS, NextJS, TailwindCSS, Bootstrap  
 3. Back-end: Node.js, Express.js  
-4. Database: MongoDB, MySQL  
+4. Database: Prisma, MongoDB, MySQL  
 5. Tools: Git, VS Code, Postman, Figma  
 
 ## 💻 Projects
