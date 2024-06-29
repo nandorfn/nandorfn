@@ -7,7 +7,7 @@ I'm a passionate web developer who loves to write code in JavaScript. I enjoy wo
 I'm always working on something new, and you can find some of my recent projects on my GitHub profile. Here are a few of my favorites:
 
 1. [Hitunganmenit](https://hitungan-menit-nandorfn.vercel.app/)
-2. [Riotgear](https://riotgear.vercel.app/)
+2. [Riotgear e-commerce](https://riotgear.vercel.app/)
 3. [Teamwork Project Management](https://teamwork-nandorfn.vercel.app/)
 
 ## 📫 Let's connect
